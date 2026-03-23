@@ -1,5 +1,12 @@
 ## Hi👋, I'm Rashed Jaman Raj  
 
+Full Stack JavaScript Developer
+-------------------------------
+
+* 🌍  I'm based in Dhaka, Bangladesh
+* 🖥️  See my portfolio at [My PortFolio](http://github.com/rjr-dx)
+* ✉️  You can contact me at [rashed.jaman.raj@gmail.com](mailto:rashed.jaman.raj@gmail.com)
+
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -34,9 +41,15 @@
 
 ---
 
-## 📖 Currently Learning
-- GraphQL, Prisma, Rust  
-- Cloud-native deployment with Docker + AWS  
+
+
+<!-- These will have to be learned in the future  -->
+<!--## 📖 Currently Learning -->
+<!-- GraphQL, Prisma, Rust  -->
+<!-- Cloud-native deployment with Docker + AWS  -->
+
+
+
 
 ---
 
@@ -46,10 +59,10 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashedjamanraj)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashed-jaman-raj-488a81370)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RashedJamanRaj)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)]See my portfolio at [My PortFolio](http://github.com/rjr-dx) 
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)]You can contact me at [rashed.jaman.raj@gmail.com](mailto:rashed.jaman.raj@gmail.com)  
 
 ---
 
