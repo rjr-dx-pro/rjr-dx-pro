@@ -62,7 +62,7 @@ Full Stack JavaScript Developer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashed-jaman-raj-488a81370)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RashedJamanRaj)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)See my portfolio at My PortFolio (http://github.com/rjr-dx)]  <br /> 
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white) You can contact me at rashed.jaman.raj@gmail.com (mailto:rashed.jaman.raj@gmail.com)] 
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white) You can contact me at mailto:rashed.jaman.raj@gmail.com] 
 
 ---
 
