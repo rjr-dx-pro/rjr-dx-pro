@@ -1,11 +1,12 @@
-## Hi👋, I'm Rashed Jaman Raj  
+## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm
+Rashed Jaman Raj
 
 Full Stack JavaScript Developer
 -------------------------------
 
 * 🌍  I'm based in Dhaka, Bangladesh
-* See my portfolio at [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](http://github.com/rjr-dx)
-* You can contact me at [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashed.jaman.raj@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)] See my portfolio at [My PortFolio](http://github.com/rjr-dx)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashed.jaman.raj@gmail.com) You can contact me at [rashed.jaman.raj@gmail.com](rashed.jaman.raj@gmail.com)
 
 
 ## 💻 Tech Stack
