@@ -29,9 +29,17 @@ Full Stack JavaScript Developer
 -------
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=rjr-dx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rjr-dx&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rjr-dx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/rjr-dx"><img
+    src="https://github-readme-stats.vercel.app/api?username=rjr-dx&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
+    alt="rjr-dx's GitHub stats" /></a>
+
+<a href="https://github.com/rjr-dx" align="left"><img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjr-dx&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
+    alt="Top Languages" /></a>
 
 ---
 
