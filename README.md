@@ -66,7 +66,8 @@ Full Stack JavaScript Developer
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashedjamanraj) [![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white&logoWidth=40)](https://x.com/RashedJamanRaj) [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](http://github.com/rjr-dx) [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashed.rjr.dx@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashedjamanraj) [![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white&logoWidth=40)](https://x.com/RashedJamanRaj) [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](http://github.com/rjr-dx) [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/RasedJamanRaj)
+
 
 
 ---
