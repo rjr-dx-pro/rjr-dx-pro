@@ -4,7 +4,12 @@ Full Stack JavaScript Developer
 -------------------------------
 
 * 🌍  I'm based in Dhaka, Bangladesh <br/>
-* ![GitHub Logo](https://img.shields.io/badge/-181717.svg?style=for-the-badge&logo=github&logoColor=white&label=&logoWidth=90) See my portfolio at (http://github.com/rjr-dx)<br />
+<p>
+  <a href="http://github.com/rjr-dx" style="display:inline-flex; align-items:center; text-decoration:none;">
+    <img src="https://img.shields.io/badge/-181717.svg?style=for-the-badge&logo=github&logoColor=white&label=&logoWidth=90" alt="GitHub Logo" />
+    <span style="margin-left:10px; font-size:16px; color:#000;">See my portfolio at My PortFolio</span>
+  </a>
+</p><br />
 * <img src="https://img.icons8.com/color/48/000000/gmail.png" width="15"/>  You can contact me at [rashed.jaman.raj@gmail.com](mailto:rashed.jaman.raj@gmail.com)
 
 
