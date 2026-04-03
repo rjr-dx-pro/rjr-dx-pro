@@ -59,8 +59,8 @@ Full Stack JavaScript Developer
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashed-jaman-raj-488a81370)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RashedJamanRaj)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashedjamanraj)  
+[![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RashedJamanRaj) 
 * 🖥️  See my portfolio at [My PortFolio](http://github.com/rjr-dx)
 * ✉️  You can contact me at [rashed.jaman.raj@gmail.com](mailto:rashed.jaman.raj@gmail.com)
 
