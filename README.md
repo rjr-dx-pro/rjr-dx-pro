@@ -5,7 +5,7 @@ Full Stack JavaScript Developer
 
 * 🌍  I'm based in Dhaka, Bangladesh <br/>
 * ![GitHub Logo](https://img.shields.io/badge/-181717.svg?style=for-the-badge&logo=github&logoColor=white&label=&logoWidth=70) See my portfolio at (http://github.com/rjr-dx)<br />
-* ![Gmail Logo](https://img.shields.io/badge/-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&label=&logoWidth=50) You can contact me at [rashed.jaman.raj@gmail.com](mailto:rashed.jaman.raj@gmail.com)
+* ![Gmail Logo](https://img.shields.io/badge/-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&label=&logoWidth=30) You can contact me at [rashed.jaman.raj@gmail.com](mailto:rashed.jaman.raj@gmail.com)
 
 
 ## 💻 Tech Stack
@@ -66,10 +66,7 @@ Full Stack JavaScript Developer
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashedjamanraj)  
-[![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white&logoWidth=40)](https://x.com/RashedJamanRaj)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](http://github.com/rjr-dx)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashed.jaman.raj@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashedjamanraj) [![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white&logoWidth=40)](https://x.com/RashedJamanRaj) [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](http://github.com/rjr-dx) [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashed.jaman.raj@gmail.com)
 
 
 ---
