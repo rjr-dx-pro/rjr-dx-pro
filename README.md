@@ -66,7 +66,7 @@ Full Stack JavaScript Developer. Developing web, web app & Superior Software for
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashedjamanraj) [![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white&logoWidth=40)](https://x.com/RasedJamanRaj) [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](http://github.com/rashedjamanraj) [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/RasedJamanRaj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashedjamanraj) [![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white&logoWidth=40)](https://x.com/RasedJamanRaj) [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](http://github.com/rashedjamanraj) [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/RasedJamanRaj) [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rashedjamanraj)
 
 
 
