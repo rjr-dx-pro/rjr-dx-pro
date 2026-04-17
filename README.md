@@ -1,7 +1,7 @@
 ## Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Rashed Jaman Raj
 
 Full Stack JavaScript Developer. Developing web, web app & Superior Software for Leading Businesses. 
--------------------------------
+--------------------------------
 
 * 🌍  I'm based in Dhaka, Bangladesh <br/>
 * ![GitHub Logo](https://img.shields.io/badge/-181717.svg?style=for-the-badge&logo=github&logoColor=white&label=&logoWidth=90) See my portfolio at [My PortFolio](http://github.com/rashedjamanraj)<br /> <br />
