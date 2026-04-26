@@ -43,11 +43,11 @@ Full Stack JavaScript Developer. Developing web, web app & Superior Software for
 
 <a href="https://github.com/rashedjamanraj" align="left"><img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedjamanraj&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
-    alt="Top Languages" /></a>
+    alt="Top Languages" /></a> <br />
 
-<div>
+
   ![GitHub Stats Card](https://ghstats.dev/api/card?username=rashedjamanraj&border_radius=10&hide=followers%2Crepos%2Cactive_day%2Cweek%2Cstreak%2Cavg%2Chours%2Ctrend)
-</div>
+
 
 ---
 
